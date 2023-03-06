@@ -1,0 +1,4 @@
+name: Elytration
+version: '${version}'
+main: com.playdeca.elytration.Elytration
+api-version: 1.19
