@@ -2,3 +2,10 @@ name: Elytration
 version: '${version}'
 main: com.playdeca.elytration.Elytration
 api-version: 1.19
+description: Elytration is a plugin that allows you to fly with an elytra.
+author: MonsterWhat
+website: https://playdeca.com
+prefix: Elytration
+depend:
+  - [WorldGuard, 7.0.0]
+  - [FastAsyncWorldEdit, 2.5.2]
